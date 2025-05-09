@@ -9,3 +9,4 @@ This repository contains a **simple calculator** script written in Python. The c
 - Subtraction
 - Multiplication
 - Division (with error handling for division by zero)
+- Division
