@@ -1,10 +1,12 @@
 # basic_calculator
 import pandas as pd
-IMPORT OS
 
 # Function to perform addition
 def add(x, y):
     return x + y
+# Function to  addition
+def add(z, n):
+    return z + n   
 
 # Function to perform subtraction
 def subtract(x, y):
