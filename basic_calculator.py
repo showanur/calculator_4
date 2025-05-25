@@ -4,13 +4,14 @@ import pandas as pd
 # Function to perform addition
 def add(x, y):
     return x + y
+    
 # Function to  addition
 def add(z, n):
     return z + n   
 
 # Function to perform subtraction
 def subtract(x, y):
-    return x - y
+    return x - y - 1
 
 # Function to perform multiplication
 def multiply(x, y):
