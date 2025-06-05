@@ -3,7 +3,7 @@ import pandas as pd
 
 # Function to perform addition
 def add(x, y):
-    return x + y
+    return x + y + z
     
 # Function to  addition
 def add(z, n):
